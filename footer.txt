@@ -1,5 +1,1 @@
-text for footer
-some more text
-blabla
-
-test
+Some text
